@@ -36,6 +36,6 @@ The Seiko factory showed the highest downtime, primarily driven by specific mach
 * Dashboard Development
 * Problem Solving
 
-## 📎 Note
+## Note
 
 This project is part of a virtual job simulation provided by Deloitte via Forage.
